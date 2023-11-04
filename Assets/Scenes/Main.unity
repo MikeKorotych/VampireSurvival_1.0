@@ -32349,7 +32349,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f7d82c3b05ee84d44985b2abde5d0b0f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 2
+  moveSpeed: 20
   anim: {fileID: 607492436}
   spriteTransform: {fileID: 607492434}
   pickupRange: 1.5
