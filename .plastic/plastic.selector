@@ -1,0 +1,4 @@
+repository "VampireSurvival_1.0@mixakievchanen@cloud"
+  path "/"
+    br "/main"
+    co "/main"

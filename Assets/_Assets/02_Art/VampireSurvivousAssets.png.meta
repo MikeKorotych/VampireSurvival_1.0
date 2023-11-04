@@ -1,0 +1,4052 @@
+fileFormatVersion: 2
+guid: 1369bcdf995a50e4ab964a33b30019ec
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 737
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a5c4e9e34ff5b40b19338dc7ba6605
+      internalID: 21948637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 736
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da05e8b897388c043b6d00b98792659a
+      internalID: -1600842721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 737
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43ea1588ebabe14fbc5df41520602ab
+      internalID: -926425508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 736
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc33efe03917a14eaee59b9d9f211d7
+      internalID: -673134537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 736
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e4b08bcc4ad5b40879649d4b15b43a
+      internalID: 1063371485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 736
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262f7b2bfe2c9f143bf4424ae68be405
+      internalID: 785745108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 736
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810cab387ce0c7948bd438f58f7aba5e
+      internalID: -1754815945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 736
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15125f6c1fda441408d0106ebc919654
+      internalID: -374845433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 705
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b675682a366ce944822f2e1468552f2
+      internalID: -1426348418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 705
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582cf77d99664eb4e8e1dc8ed1e167ca
+      internalID: -1107175709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 704
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb00f91d1cb2b1408929bcb2b9d5249
+      internalID: -1857896892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 704
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d850a62626dfaa84f8c93d20806cdd14
+      internalID: 491454792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_12
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 704
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1351f3bc343838348acb085e71fa679f
+      internalID: 242432417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_13
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 705
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e1817eb2aeb3944a3391739a5fe5d0
+      internalID: 1415717331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 705
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb771c2e835320947a75491d86a290b6
+      internalID: -1023949088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_15
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 705
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231216846130e7042bd0bf2e2abab3e0
+      internalID: -1305584796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 674
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01af68752e6861b488f38b0b30ebf2da
+      internalID: 1503174425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 674
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79883d21fdf38c040be96bf71de299dc
+      internalID: 701820693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 673
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa1d587529863e4680933de565af597
+      internalID: 1464221778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 673
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b464109103376404cae7379db8a5097a
+      internalID: -1915167528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_20
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 673
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f0636101f2e29479e9a19083656c66
+      internalID: 89204011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_21
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 672
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b57f120a503adb40b4a1bab9fd24bce
+      internalID: -1805839394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_22
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 672
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae0fd3521fbc4044848179f5068f2b6
+      internalID: -148444070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_23
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 672
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9a40bed5775eb48a20ac80af56e90d
+      internalID: -2110357736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 640
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c79c3079cbc1049a7dabb29851f2d5
+      internalID: 1794625472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_25
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 640
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5016bbb54ceb52a4a8279e0d84fbf32f
+      internalID: 354700295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 640
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3461b0010a9dc43aa96bc176b78aaf
+      internalID: -1124536786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_27
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 640
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41cbcfc0f91fd94593724474b75d93e
+      internalID: -496974812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_28
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 640
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545cfbc62dd180245b746b08c9e74c73
+      internalID: -978465274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_29
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 640
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1623051a92215244a8ee6139a61737ee
+      internalID: -1443630196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_30
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 640
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd563fc5951bb6645a6d4ca0d2cdf2d3
+      internalID: 24207106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_31
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 639
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f56976c0014b0b42886b776f629a689
+      internalID: 912780648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_32
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 639
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c895d2c8518962541befb705fb70d724
+      internalID: -1602875957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 606
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9af375c60739f479211b09290b6c19
+      internalID: -542419760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 611
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2b17e03255460479a02dfc72b2ed14
+      internalID: -982777195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 606
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a260d29e47c7954e81204950b034679
+      internalID: -897563847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_36
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 606
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86a2353292caed40925c630596f0660
+      internalID: -1802081707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_37
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 606
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00eaa7cbc6bbc154ba5a63ddbd4b896a
+      internalID: 565668528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_38
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 606
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe3bd7967747584eb69fc7d28423a9e
+      internalID: -841761861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_39
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 606
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159ebc1f1140c4b44ba62ffe4a281d0e
+      internalID: -555729108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_40
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 606
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b588591e6c334947bbec562fa77f43c
+      internalID: -1328599960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 573
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce3261a72e292c448f03a32301c448d
+      internalID: 1316795755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_42
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 573
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f6fde33c7009e4dae45a0c8c94bc53
+      internalID: 81721638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_43
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 573
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b728ec6e3f86324686744864fdafbc2
+      internalID: 953068593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_44
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 573
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803c4b0a220c1fb488248bf6a3af9209
+      internalID: -1942209544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_45
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 573
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba62087df1e9774493f9c4c46624a09
+      internalID: -1096057031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_46
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 573
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a924f7427286e44bb1ceb8fc158ba3
+      internalID: 1024084120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_47
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 573
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c165f46ddaad94e82f3296f3683f08
+      internalID: 1417519348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_48
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 573
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a0579f44d35584ea4600a687a0d157
+      internalID: -1231808656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 540
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77fe0fce499177488aa3a4ff5065ec3
+      internalID: -510241426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_50
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 540
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ca41f5ac92fb84ca6cc8a834d54109
+      internalID: 816009825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 540
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db063bcf1b7692949aaa6d1c9bbd01c1
+      internalID: -1866158956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_52
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 540
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861e727c6dd4f3e4b81e66d6171996eb
+      internalID: -441949480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_53
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 540
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7304b1bc239a1144baf6def78189ba3
+      internalID: -1915276019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_54
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 540
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27b96c7d04b4074e9f475548f250a58
+      internalID: 1213775605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_55
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 540
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e35315fd77fccf409c7da2f9498a917
+      internalID: -1851685626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_56
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 540
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd053d0140966074ca5eb5da7e8670d2
+      internalID: -138425552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 507
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627382ad254df614b9f5b62935b0e94d
+      internalID: 736345592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_58
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 507
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a950b96c063ddb94fa044654cd2313fd
+      internalID: 1288482109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_59
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 507
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96fabdfb6e20514fa844d74c83c5d6f
+      internalID: 406821864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_60
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 507
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0986a39cfe6064db168c6e574cbe8a
+      internalID: -1665571660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_61
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 507
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206c10716fe9b3649ab2ca2e9797a2bb
+      internalID: 69082024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_62
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 507
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12b381316d5d594eb498176335e2c8f
+      internalID: 738021670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_63
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 507
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b330beb39307bf24ab5659cd410fbd24
+      internalID: 45479856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_64
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 507
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c12cab98a4a3614f97e8239d43d8e5a
+      internalID: -900170847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 474
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962888d86be196041a4c322883630ab1
+      internalID: 592794582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 474
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16217ff8efbe5af4a9e0b585f46a9aca
+      internalID: -157453498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 474
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a72ea32baed3444599950df553d16bf
+      internalID: 1896725073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_68
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 474
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1579829a2664d48be2100d5021de00
+      internalID: 774258260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_69
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 474
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7de27f0df9fab4881777494c6f38c5
+      internalID: 1358895563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_70
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 474
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c047997f1da181a43992c28cca4b47b9
+      internalID: -1368153826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_71
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 474
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1068dd4511fef45afcde9c8a917401
+      internalID: 199095999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_72
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 474
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f779d5fdb97f5c848abdfa1267232b9c
+      internalID: 81938198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_73
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 441
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8332d7feb108fc44e837df362bd5dfa7
+      internalID: 872935655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_74
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 441
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1acd92e3842d8347928052593aa7131
+      internalID: 1372491879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_75
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 441
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead8a5cf8eef61649b3e046e054f42c7
+      internalID: 146051523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_76
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 441
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc34a24427244d74c9f77a0d63df5f17
+      internalID: -593664431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_77
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 441
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c2f5bc214313544bb33d135a9c735b
+      internalID: -1145325056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_78
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 441
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2b6bc0e24b9f44a9e3cfb064fe04b8
+      internalID: 1316994958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_79
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 441
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d73362a2a99a64cb5f934e3fecc726
+      internalID: 118322520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_80
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 441
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addbb3b82d355b44c96485b0393a5258
+      internalID: -1136981441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_81
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 408
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4b6b9d69190c34a8fcffeec589815b
+      internalID: 1488430784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_82
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 408
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40439d9aeb53df34db78104c3af2e3a8
+      internalID: -647622256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_83
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 409
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83faf01619fc5e448962a83642414931
+      internalID: -1655810707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_84
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 408
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cc1769e47fecd428cdeea25beea01d
+      internalID: 938242654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_85
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 408
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab031748be13ad4293569c8d7139e48
+      internalID: -1324634463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_86
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 408
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d478ba33282601429c910f00cdea60a
+      internalID: 1160781569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_87
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 408
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18844626e763374ca3eaddab3b6072d
+      internalID: 49345747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_88
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 408
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4805bb84e6cf3544a83d305118a49dba
+      internalID: 1849709113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_89
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 375
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f5481194923054fb10db3964d843a0
+      internalID: -300446556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_90
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 375
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c5b6c7a588f5d42b8abf8c25378942
+      internalID: -183373604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_91
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 375
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3058f311ae9be4f889a4d624ee757d
+      internalID: -925818572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_92
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 375
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c03aea392ff18428c98ae9fd32f668
+      internalID: -2081458912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_93
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 375
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3369d7c76908df745824282613bd6450
+      internalID: -2090265895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_94
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 375
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e31b7504f640134facd1643cc44102d
+      internalID: -1403128565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_95
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 375
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7109263fcb3d84188737c7b6826c9b
+      internalID: -1092877006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 342
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7300c9ae4fa30eb4d8be3c947517286f
+      internalID: -2038876175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_97
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 342
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd11483dbbf23a04cb591c6c636cd160
+      internalID: 1009129298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_98
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 342
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950c609891f0eca42a2a7cdd30977551
+      internalID: 1545866357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_99
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 342
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbb35ecfba9b58439aa22bfe1724d78
+      internalID: 1938649821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_100
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 342
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d0133350765e34f88e0140db215da6
+      internalID: 920417188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_101
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 342
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7a6f020fd8331438b84a98081bb315
+      internalID: -1357084127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_102
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 342
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db651de5344e1f046abc97a3c0a9f173
+      internalID: -496082008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_103
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 342
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a3badeb68899f4399d790a3b5dc742
+      internalID: -1922807483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_104
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 342
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abf97459383e4444a5eb0ad7a7c1a96
+      internalID: 1258550791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_105
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 309
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8a92a3a23ee094eae9495fe847e8ef
+      internalID: -1433015114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 309
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c60e364098ce54ead6c9ef5e72cc12
+      internalID: -875144692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_107
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 309
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a576818ad734aea46943a32346874469
+      internalID: -295414443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_108
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 309
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec055ee2ada6a047a241f45ad8d5f71
+      internalID: 120443750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_109
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 309
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a675c5203b3afcf49a69ee94f82bb09d
+      internalID: 245204907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_110
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 309
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed9b3699306e2f41aa684dca0c601b3
+      internalID: -597768440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 308
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df369c876b8d80a438ddab70b3a238f0
+      internalID: -472966245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_112
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 308
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb926f0c932630a409afecf4fdf27266
+      internalID: -2093269384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_113
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 274
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2003e65db91ae744099ad3d256be3b56
+      internalID: -2128447204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_114
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 274
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce54205f0ff5164f9449ac86c61b527
+      internalID: -1859660758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_115
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 274
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac069fa653703f34f826d06d3144dea0
+      internalID: -733088217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_116
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 274
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74298ce45ab7bc84abac29125f1322e7
+      internalID: 890673049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_117
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 274
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3cfe0f3ce8e0b4ea722420e20758cb
+      internalID: 1469907602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_118
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 274
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8eeac629776c54b809eb026da2cc6e
+      internalID: 1318859373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_119
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 274
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ceeea8196a7854683a8a167f6d24b0
+      internalID: -100717976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_120
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 274
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29886a07eef02e747b906d5252589adf
+      internalID: -437912190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_121
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 274
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69c409afa5923346b8e303641c1d8d2
+      internalID: 1704767338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_122
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 240
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0920bdcbc49a7c542859f301486aa017
+      internalID: 1506009490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_123
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 240
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2592456a4d8ff824b888cb953462716f
+      internalID: -604375990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_124
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 240
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c886d7d73dffe44a067958914754d9
+      internalID: 218678603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_125
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 240
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e8124dd0cc2e14d823d8cda5cf5cb6
+      internalID: -1287524537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_126
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 240
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8838155cd5db6654dbe7c97b5c9b689a
+      internalID: 1904600409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_127
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 240
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac19baf5bb5bef42b049e92d7f28c02
+      internalID: 1809179671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_128
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 240
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f0d03562f37bc499f89adfcffad836
+      internalID: 544606004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_129
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 240
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5785b178d5ef344449481c5bbb514d88
+      internalID: 1057186355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_130
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 206
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7296a9af0c58ad84e994ddcbfd54c5b5
+      internalID: 816764850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_131
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 206
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e33c76a79d3754a831c758b0c76168
+      internalID: 159756312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_132
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 206
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b370809ec7b4145b5b40a32a276e23
+      internalID: -914216749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_133
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 206
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81fcd5c5a9235c409b8d80acef15fa6
+      internalID: -1716123901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_134
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 206
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40beeb652f983534d98d8c5c1c9b82ff
+      internalID: 1392633654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_135
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 206
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94647009240de34088115da25ecc309
+      internalID: -1421631275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_136
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 206
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b51194255325ff42aca86a3c72293d1
+      internalID: 1570718447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_137
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 206
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f5a3a28fe5c7c4fafbb68b495f1d97
+      internalID: 470932398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_138
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 206
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6b6aa61515d7f45a3cd3379d4bec7c
+      internalID: 1455020410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_139
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 172
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b22562c83d3d945a1d56eae648d812
+      internalID: -895478234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_140
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 172
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9921b72847502e4ab1359303d8b9196
+      internalID: -1766887269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_141
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 172
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb90b929d7afcad40ba596159c6e9052
+      internalID: 959066859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_142
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 172
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e14d145b83622443af27e5ad7533cc4
+      internalID: 1012397770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_143
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 172
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b0531b74585264ebaf42938de49194
+      internalID: -462944328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_144
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 172
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485e19d1eb5fb1a48b4f813a75414345
+      internalID: 284550309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_145
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 172
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7295b26fda8547449b6da4156255abbc
+      internalID: 1651046557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_146
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 172
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37baa443628145f41abbe2016d802299
+      internalID: -1525801926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_147
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 138
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0f045f007fed64e98620a905a44cdc
+      internalID: -2035028284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_148
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 138
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b225b95a3aac154c93a7fd4e7af2f8e
+      internalID: 1922955823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_149
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 138
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f9060e9576cfc4da4ef0b3b3af4ae1
+      internalID: 1945819701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_150
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 138
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8623d60dc664f6348aad5702b862203d
+      internalID: 1129428167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_151
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 138
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9518ec160750941be227b3fbd6fcc9
+      internalID: -2143448132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_152
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 137
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0255218d01b1a4a8089296fe5939e3
+      internalID: -105575339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_153
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 137
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6453603420661f64699f39d75645b10e
+      internalID: 844535655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_154
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 137
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a78de5ceb1be294abd3aaa5bd018ce4
+      internalID: 1333419351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_155
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 137
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f4d66a3c1d6b246a686d5061141ee2
+      internalID: -1247211951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_156
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 102
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93efcbc6b0fa4ee42bf4c0f8d274a017
+      internalID: -1329915655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_157
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 101
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659eaa5439c1c394fa50844a8dff191b
+      internalID: 727031126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_158
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 101
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27b04e9849e4df47b1123dfe90f7956
+      internalID: -547783386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_159
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 101
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ee88702cf6e2c45ab4dc16e26f0034
+      internalID: -44290247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_160
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 98
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db54bd8977ce13b40a458c3d27fcfecc
+      internalID: -1899273012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_161
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 98
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d913e4035033c4b9e3431b1be378f5
+      internalID: -1050456035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_162
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 98
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211f359b17880da4fb24001d9ac8f729
+      internalID: -320652855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_163
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 98
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9e37d619c0083458a2f0d8517e07f8
+      internalID: -1847160229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_164
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f541194fb6c564e94daf77d6b99ffb
+      internalID: -497843323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_165
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 50
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b5c81599891cb46992705b7ffb91f0
+      internalID: 1270658350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_166
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 50
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9745bd4f42cc5654bac3e4196439174c
+      internalID: 1467718440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_167
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1282b6e24cc655b47bf8e85e8863a375
+      internalID: 2140195826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_170
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b2ea1ccef6a2541ad7342eeb4770f4
+      internalID: 933982391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_171
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 50
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f602d40b31179a7459af9d1cd15eb0b3
+      internalID: -1288778436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_174
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990a2e4436022df4a92f442d649cf798
+      internalID: -515982942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_175
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 50
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b74d3523827b0e429d58859b23b3390
+      internalID: -1286271230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_176
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6813cd8c96c404da0e0d79d3f1224a
+      internalID: 646678251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_177
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 50
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e44ec6e0186c6c40bf7e74c415da010
+      internalID: 1107218813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_178
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a433e5c9cc84e40abcd7e8792b4c06
+      internalID: -56982793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_179
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 50
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da9120dcde658a409e30e5010130b11
+      internalID: 1104419684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireSurvivousAssets_181
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 4
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef50e88ec8ede4042a045f9ee2ad8d58
+      internalID: 274246638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      VampireSurvivousAssets_0: 21948637
+      VampireSurvivousAssets_1: -1600842721
+      VampireSurvivousAssets_10: -1857896892
+      VampireSurvivousAssets_100: 920417188
+      VampireSurvivousAssets_101: -1357084127
+      VampireSurvivousAssets_102: -496082008
+      VampireSurvivousAssets_103: -1922807483
+      VampireSurvivousAssets_104: 1258550791
+      VampireSurvivousAssets_105: -1433015114
+      VampireSurvivousAssets_106: -875144692
+      VampireSurvivousAssets_107: -295414443
+      VampireSurvivousAssets_108: 120443750
+      VampireSurvivousAssets_109: 245204907
+      VampireSurvivousAssets_11: 491454792
+      VampireSurvivousAssets_110: -597768440
+      VampireSurvivousAssets_111: -472966245
+      VampireSurvivousAssets_112: -2093269384
+      VampireSurvivousAssets_113: -2128447204
+      VampireSurvivousAssets_114: -1859660758
+      VampireSurvivousAssets_115: -733088217
+      VampireSurvivousAssets_116: 890673049
+      VampireSurvivousAssets_117: 1469907602
+      VampireSurvivousAssets_118: 1318859373
+      VampireSurvivousAssets_119: -100717976
+      VampireSurvivousAssets_12: 242432417
+      VampireSurvivousAssets_120: -437912190
+      VampireSurvivousAssets_121: 1704767338
+      VampireSurvivousAssets_122: 1506009490
+      VampireSurvivousAssets_123: -604375990
+      VampireSurvivousAssets_124: 218678603
+      VampireSurvivousAssets_125: -1287524537
+      VampireSurvivousAssets_126: 1904600409
+      VampireSurvivousAssets_127: 1809179671
+      VampireSurvivousAssets_128: 544606004
+      VampireSurvivousAssets_129: 1057186355
+      VampireSurvivousAssets_13: 1415717331
+      VampireSurvivousAssets_130: 816764850
+      VampireSurvivousAssets_131: 159756312
+      VampireSurvivousAssets_132: -914216749
+      VampireSurvivousAssets_133: -1716123901
+      VampireSurvivousAssets_134: 1392633654
+      VampireSurvivousAssets_135: -1421631275
+      VampireSurvivousAssets_136: 1570718447
+      VampireSurvivousAssets_137: 470932398
+      VampireSurvivousAssets_138: 1455020410
+      VampireSurvivousAssets_139: -895478234
+      VampireSurvivousAssets_14: -1023949088
+      VampireSurvivousAssets_140: -1766887269
+      VampireSurvivousAssets_141: 959066859
+      VampireSurvivousAssets_142: 1012397770
+      VampireSurvivousAssets_143: -462944328
+      VampireSurvivousAssets_144: 284550309
+      VampireSurvivousAssets_145: 1651046557
+      VampireSurvivousAssets_146: -1525801926
+      VampireSurvivousAssets_147: -2035028284
+      VampireSurvivousAssets_148: 1922955823
+      VampireSurvivousAssets_149: 1945819701
+      VampireSurvivousAssets_15: -1305584796
+      VampireSurvivousAssets_150: 1129428167
+      VampireSurvivousAssets_151: -2143448132
+      VampireSurvivousAssets_152: -105575339
+      VampireSurvivousAssets_153: 844535655
+      VampireSurvivousAssets_154: 1333419351
+      VampireSurvivousAssets_155: -1247211951
+      VampireSurvivousAssets_156: -1329915655
+      VampireSurvivousAssets_157: 727031126
+      VampireSurvivousAssets_158: -547783386
+      VampireSurvivousAssets_159: -44290247
+      VampireSurvivousAssets_16: 1503174425
+      VampireSurvivousAssets_160: -1899273012
+      VampireSurvivousAssets_161: -1050456035
+      VampireSurvivousAssets_162: -320652855
+      VampireSurvivousAssets_163: -1847160229
+      VampireSurvivousAssets_164: -497843323
+      VampireSurvivousAssets_165: 1270658350
+      VampireSurvivousAssets_166: 1467718440
+      VampireSurvivousAssets_167: 2140195826
+      VampireSurvivousAssets_168: 1628754548
+      VampireSurvivousAssets_169: 263568378
+      VampireSurvivousAssets_17: 701820693
+      VampireSurvivousAssets_170: 933982391
+      VampireSurvivousAssets_171: -1288778436
+      VampireSurvivousAssets_172: -1231411276
+      VampireSurvivousAssets_173: -1016685871
+      VampireSurvivousAssets_174: -515982942
+      VampireSurvivousAssets_175: -1286271230
+      VampireSurvivousAssets_176: 646678251
+      VampireSurvivousAssets_177: 1107218813
+      VampireSurvivousAssets_178: -56982793
+      VampireSurvivousAssets_179: 1104419684
+      VampireSurvivousAssets_18: 1464221778
+      VampireSurvivousAssets_180: 1765797053
+      VampireSurvivousAssets_181: 274246638
+      VampireSurvivousAssets_19: -1915167528
+      VampireSurvivousAssets_2: -926425508
+      VampireSurvivousAssets_20: 89204011
+      VampireSurvivousAssets_21: -1805839394
+      VampireSurvivousAssets_22: -148444070
+      VampireSurvivousAssets_23: -2110357736
+      VampireSurvivousAssets_24: 1794625472
+      VampireSurvivousAssets_25: 354700295
+      VampireSurvivousAssets_26: -1124536786
+      VampireSurvivousAssets_27: -496974812
+      VampireSurvivousAssets_28: -978465274
+      VampireSurvivousAssets_29: -1443630196
+      VampireSurvivousAssets_3: -673134537
+      VampireSurvivousAssets_30: 24207106
+      VampireSurvivousAssets_31: 912780648
+      VampireSurvivousAssets_32: -1602875957
+      VampireSurvivousAssets_33: -542419760
+      VampireSurvivousAssets_34: -982777195
+      VampireSurvivousAssets_35: -897563847
+      VampireSurvivousAssets_36: -1802081707
+      VampireSurvivousAssets_37: 565668528
+      VampireSurvivousAssets_38: -841761861
+      VampireSurvivousAssets_39: -555729108
+      VampireSurvivousAssets_4: 1063371485
+      VampireSurvivousAssets_40: -1328599960
+      VampireSurvivousAssets_41: 1316795755
+      VampireSurvivousAssets_42: 81721638
+      VampireSurvivousAssets_43: 953068593
+      VampireSurvivousAssets_44: -1942209544
+      VampireSurvivousAssets_45: -1096057031
+      VampireSurvivousAssets_46: 1024084120
+      VampireSurvivousAssets_47: 1417519348
+      VampireSurvivousAssets_48: -1231808656
+      VampireSurvivousAssets_49: -510241426
+      VampireSurvivousAssets_5: 785745108
+      VampireSurvivousAssets_50: 816009825
+      VampireSurvivousAssets_51: -1866158956
+      VampireSurvivousAssets_52: -441949480
+      VampireSurvivousAssets_53: -1915276019
+      VampireSurvivousAssets_54: 1213775605
+      VampireSurvivousAssets_55: -1851685626
+      VampireSurvivousAssets_56: -138425552
+      VampireSurvivousAssets_57: 736345592
+      VampireSurvivousAssets_58: 1288482109
+      VampireSurvivousAssets_59: 406821864
+      VampireSurvivousAssets_6: -1754815945
+      VampireSurvivousAssets_60: -1665571660
+      VampireSurvivousAssets_61: 69082024
+      VampireSurvivousAssets_62: 738021670
+      VampireSurvivousAssets_63: 45479856
+      VampireSurvivousAssets_64: -900170847
+      VampireSurvivousAssets_65: 592794582
+      VampireSurvivousAssets_66: -157453498
+      VampireSurvivousAssets_67: 1896725073
+      VampireSurvivousAssets_68: 774258260
+      VampireSurvivousAssets_69: 1358895563
+      VampireSurvivousAssets_7: -374845433
+      VampireSurvivousAssets_70: -1368153826
+      VampireSurvivousAssets_71: 199095999
+      VampireSurvivousAssets_72: 81938198
+      VampireSurvivousAssets_73: 872935655
+      VampireSurvivousAssets_74: 1372491879
+      VampireSurvivousAssets_75: 146051523
+      VampireSurvivousAssets_76: -593664431
+      VampireSurvivousAssets_77: -1145325056
+      VampireSurvivousAssets_78: 1316994958
+      VampireSurvivousAssets_79: 118322520
+      VampireSurvivousAssets_8: -1426348418
+      VampireSurvivousAssets_80: -1136981441
+      VampireSurvivousAssets_81: 1488430784
+      VampireSurvivousAssets_82: -647622256
+      VampireSurvivousAssets_83: -1655810707
+      VampireSurvivousAssets_84: 938242654
+      VampireSurvivousAssets_85: -1324634463
+      VampireSurvivousAssets_86: 1160781569
+      VampireSurvivousAssets_87: 49345747
+      VampireSurvivousAssets_88: 1849709113
+      VampireSurvivousAssets_89: -300446556
+      VampireSurvivousAssets_9: -1107175709
+      VampireSurvivousAssets_90: -183373604
+      VampireSurvivousAssets_91: -925818572
+      VampireSurvivousAssets_92: -2081458912
+      VampireSurvivousAssets_93: -2090265895
+      VampireSurvivousAssets_94: -1403128565
+      VampireSurvivousAssets_95: -1092877006
+      VampireSurvivousAssets_96: -2038876175
+      VampireSurvivousAssets_97: 1009129298
+      VampireSurvivousAssets_98: 1545866357
+      VampireSurvivousAssets_99: 1938649821
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,556 @@
+fileFormatVersion: 2
+guid: 4b15c9457cd87cd408bd7f56c9c65c74
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: summons1_Frame_0
+    originalName: 
+    pivot: {x: 0.6, y: -0.59999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 10
+      height: 20
+    spriteID: 9887c5a8fba356341b86a3b71c7c7c10
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: summons1_Frame_1
+    originalName: 
+    pivot: {x: 0.6, y: -0.59999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 32
+      width: 10
+      height: 20
+    spriteID: 2e843f618249b8d41a095e260f8d11b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 32}
+  - name: summons1_Frame_2
+    originalName: 
+    pivot: {x: 0.6, y: -0.59999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 60
+      width: 10
+      height: 20
+    spriteID: 6c1b3897d3749fa458bee3d6b51b9a0a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 60}
+  - name: summons1_Frame_3
+    originalName: 
+    pivot: {x: 0.6, y: -0.59999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 88
+      width: 10
+      height: 20
+    spriteID: 083f3955bebe21f4ab8710acf63f7d80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 88}
+  - name: summons1_Frame_4
+    originalName: 
+    pivot: {x: 0.6, y: -0.59999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 22
+      y: 4
+      width: 10
+      height: 20
+    spriteID: f92665be5056e4e418e32cccf5e22c85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 22, y: 4}
+  - name: summons1_Frame_5
+    originalName: 
+    pivot: {x: 0.6, y: -0.79999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 22
+      y: 60
+      width: 10
+      height: 15
+    spriteID: 3aee3c8b93af6684aae5e53ce21032fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 22, y: 60}
+  - name: summons1_Frame_6
+    originalName: 
+    pivot: {x: 0.6, y: -0.79999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 22
+      y: 83
+      width: 10
+      height: 15
+    spriteID: 1d1571f8cf10f4b4182e61cf4fc8de72
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 22, y: 83}
+  - name: summons1_Frame_7
+    originalName: 
+    pivot: {x: 0.62499994, y: -1.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 116
+      width: 8
+      height: 8
+    spriteID: f886ddd3da9fc45488c77602a20712a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 116}
+  - name: summons1_Frame_8
+    originalName: 
+    pivot: {x: 0.62499994, y: -1.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 26
+      width: 8
+      height: 8
+    spriteID: ebee9a90d3ffdb042838e99acde13eab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 26}
+  - name: summons1_Frame_9
+    originalName: 
+    pivot: {x: 0.66666675, y: -2.1666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 74
+      width: 6
+      height: 6
+    spriteID: 0cf24e388c24f8f468c79891f4d089d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 74}
+  - name: summons1_Frame_10
+    originalName: 
+    pivot: {x: 0.6, y: -0.59999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 22
+      y: 32
+      width: 10
+      height: 20
+    spriteID: cb8c6504a1c6ced4688f4d290af75307
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 22, y: 32}
+  - name: summons1_Frame_11
+    originalName: 
+    pivot: {x: 0.75, y: -0.77777773}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 22
+      y: 106
+      width: 8
+      height: 18
+    spriteID: 37afdc69059980b4a8182ded1300aca5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 22, y: 106}
+  - name: summons1_Frame_12
+    originalName: 
+    pivot: {x: 0.50000006, y: -1.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 4
+      width: 8
+      height: 14
+    spriteID: d5c9ba3ad1b0c3c49958716313b269c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 4}
+  - name: summons1_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: -2.5555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 42
+      width: 6
+      height: 9
+    spriteID: c633a9543fabf964081b2eaf58e098b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 42}
+  - name: summons1_Frame_14
+    originalName: 
+    pivot: {x: 0.66666675, y: -3.5714285}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 59
+      width: 6
+      height: 7
+    spriteID: 22b0af4dff74bd7498b74c47ab57cc09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 59}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -581051523
+    name: summons1
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: summons1_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 19
+        y: 12
+        width: 10
+        height: 20
+      spriteId: 9887c5a8fba356341b86a3b71c7c7c10
+    - name: summons1_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 19
+        y: 12
+        width: 10
+        height: 20
+      spriteId: 2e843f618249b8d41a095e260f8d11b1
+    - name: summons1_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 19
+        y: 12
+        width: 10
+        height: 20
+      spriteId: 6c1b3897d3749fa458bee3d6b51b9a0a
+    - name: summons1_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 19
+        y: 12
+        width: 10
+        height: 20
+      spriteId: 083f3955bebe21f4ab8710acf63f7d80
+    - name: summons1_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 19
+        y: 12
+        width: 10
+        height: 20
+      spriteId: f92665be5056e4e418e32cccf5e22c85
+    - name: summons1_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 19
+        y: 12
+        width: 10
+        height: 15
+      spriteId: 3aee3c8b93af6684aae5e53ce21032fe
+    - name: summons1_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 19
+        y: 12
+        width: 10
+        height: 15
+      spriteId: 1d1571f8cf10f4b4182e61cf4fc8de72
+    - name: summons1_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 20
+        y: 12
+        width: 8
+        height: 8
+      spriteId: f886ddd3da9fc45488c77602a20712a1
+    - name: summons1_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 20
+        y: 12
+        width: 8
+        height: 8
+      spriteId: ebee9a90d3ffdb042838e99acde13eab
+    - name: summons1_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 21
+        y: 13
+        width: 6
+        height: 6
+      spriteId: 0cf24e388c24f8f468c79891f4d089d9
+    - name: summons1_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 19
+        y: 12
+        width: 10
+        height: 20
+      spriteId: cb8c6504a1c6ced4688f4d290af75307
+    - name: summons1_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 19
+        y: 14
+        width: 8
+        height: 18
+      spriteId: 37afdc69059980b4a8182ded1300aca5
+    - name: summons1_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 21
+        y: 18
+        width: 8
+        height: 14
+      spriteId: d5c9ba3ad1b0c3c49958716313b269c0
+    - name: summons1_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 22
+        y: 23
+        width: 6
+        height: 9
+      spriteId: c633a9543fabf964081b2eaf58e098b5
+    - name: summons1_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 21
+        y: 25
+        width: 6
+        height: 7
+      spriteId: 22b0af4dff74bd7498b74c47ab57cc09
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 50, y: 50}
