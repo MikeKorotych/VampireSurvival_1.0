@@ -73,7 +73,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 35048191
-  m_SortingLayer: 1
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: -342735724, guid: 1a20b5ea36fe9584cb7ebd57bd733500, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 2607572436005835300}
   - component: {fileID: 7267529552326842955}
   - component: {fileID: 728126783166658915}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Stone
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -257,3 +257,4 @@ MonoBehaviour:
   knockbackTime: 0.3
   fadeDuration: 1
   expToGive: 11
+  expSpawnChance: 70

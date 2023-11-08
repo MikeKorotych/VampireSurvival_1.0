@@ -140,7 +140,7 @@ public class EnemyController : MonoBehaviour
 
         // if monsted don't have death animation in spritesheet we don't assign animator on the enemy controller in the inspector
         // and doind animation manually in the dotween instead;
-        if (!anim)
+        if (anim == null)
         {
             DefaultDeathAnim();
             Destroy(gameObject, 1f);

@@ -518,6 +518,7 @@ Transform:
   - {fileID: 1492925552}
   - {fileID: 177405880}
   - {fileID: 775923896}
+  - {fileID: 321770594}
   m_Father: {fileID: 2011426797}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1024,15 +1025,15 @@ MonoBehaviour:
     timeBetweenSpawns: 0.75
   - enemyToSpawn: {fileID: 6715873172000193184, guid: 11be2e6d6ef97ec49a63fc80596f73c5, type: 3}
     waveLength: 30
-    timeBetweenSpawns: 0.5
+    timeBetweenSpawns: 0.75
+  - enemyToSpawn: {fileID: 2780328937782424578, guid: 0bb3d12b83d47cf4fba09f3d3bcd5209, type: 3}
+    waveLength: 30
+    timeBetweenSpawns: 0.75
   - enemyToSpawn: {fileID: 349323512264621027, guid: c5c282e00c4fb814e961991c5f832916, type: 3}
     waveLength: 30
     timeBetweenSpawns: 0.5
-  - enemyToSpawn: {fileID: 2780328937782424578, guid: 0bb3d12b83d47cf4fba09f3d3bcd5209, type: 3}
-    waveLength: 30
-    timeBetweenSpawns: 0.25
   - enemyToSpawn: {fileID: 5622606686100837874, guid: 1fb0d941b32c5c344bc67b096b257d5a, type: 3}
-    waveLength: 30
+    waveLength: 3
     timeBetweenSpawns: 0.25
   - enemyToSpawn: {fileID: 1448770841101553352, guid: cbc6d9e025db8a84883793aca1b7ea91, type: 3}
     waveLength: 30
@@ -1047,7 +1048,7 @@ MonoBehaviour:
     waveLength: 30
     timeBetweenSpawns: 0.25
   - enemyToSpawn: {fileID: 6636911548199968449, guid: c20e4b4e963666943a83beeeb0805b7b, type: 3}
-    waveLength: 10
+    waveLength: 30
     timeBetweenSpawns: 0.25
 --- !u!4 &291607926
 Transform:
@@ -1065,6 +1066,96 @@ Transform:
   - {fileID: 1562471069}
   m_Father: {fileID: 0}
   m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &321770592
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 321770594}
+  - component: {fileID: 321770593}
+  m_Layer: 0
+  m_Name: Dagger Throw
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &321770593
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 321770592}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f10437c52640104189892bddbcff85f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  stats:
+  - speed: 7
+    damage: 5
+    range: 1
+    timeBetweenAttacks: 1.5
+    amount: 1
+    duration: 0.5
+    upgradeText: Damage +2
+  - speed: 7
+    damage: 7
+    range: 1
+    timeBetweenAttacks: 1.5
+    amount: 2
+    duration: 0.5
+    upgradeText: Cooldown reduced
+  - speed: 7
+    damage: 7
+    range: 1
+    timeBetweenAttacks: 1.25
+    amount: 3
+    duration: 0.5
+    upgradeText: Damage +3
+  - speed: 7
+    damage: 10
+    range: 1.5
+    timeBetweenAttacks: 1
+    amount: 4
+    duration: 0.5
+    upgradeText: Bigger
+  - speed: 7
+    damage: 10
+    range: 2.5
+    timeBetweenAttacks: 0.75
+    amount: 5
+    duration: 0.5
+    upgradeText: Fully upgrated
+  weaponLevel: 0
+  statsUpdated: 0
+  icon: {fileID: -1283994490, guid: 99f10abcf979e904b883da0c6922d74f, type: 3}
+  damager: {fileID: 574893901}
+  projectile: {fileID: 574893900}
+  weaponRange: 5
+  whatIsEnemy:
+    serializedVersion: 2
+    m_Bits: 128
+--- !u!4 &321770594
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 321770592}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 574893903}
+  m_Father: {fileID: 117577619}
+  m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &390114087
 GameObject:
@@ -1354,7 +1445,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &574893900
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1417,7 +1508,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0.02313453, y: 0.12335348}
@@ -1441,13 +1532,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 574893899}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.4, y: -0.00000008053121, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1771306640}
-  m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_Father: {fileID: 321770594}
+  m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &607492433
 GameObject:
@@ -1737,7 +1828,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &775923896
 Transform:
   m_ObjectHideFlags: 0
@@ -31707,7 +31798,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -437679039
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 0c78c8dd7f0745146b5b5c4fad8288e4, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 0.4}
@@ -32355,12 +32446,9 @@ MonoBehaviour:
   pickupRange: 1.5
   unassignedWeapons:
   - {fileID: 91647820}
-  - {fileID: 2006012393}
-  - {fileID: 1807552144}
-  - {fileID: 1492925553}
-  - {fileID: 177405879}
-  assignedWeapons:
   - {fileID: 775923897}
+  assignedWeapons:
+  - {fileID: 321770593}
   maxWeapons: 3
   fullyLeveledWeapons: []
 --- !u!70 &2011426801

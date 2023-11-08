@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2860781985141595547}
   - component: {fileID: 1944857754837651080}
   - component: {fileID: 5492614145272086822}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: FlyingDeamon
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -103,6 +103,7 @@ MonoBehaviour:
   knockbackTime: 0.25
   fadeDuration: 0
   expToGive: 10
+  expSpawnChance: 70
 --- !u!70 &5492614145272086822
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -210,7 +211,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 35048191
-  m_SortingLayer: 1
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: 2143616211, guid: d4fe2b4886b537d4db7b3ec9f23bf06e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

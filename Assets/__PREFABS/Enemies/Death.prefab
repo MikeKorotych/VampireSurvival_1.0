@@ -72,7 +72,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 35048191
-  m_SortingLayer: 1
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: 453037179349231493, guid: ae950136e2f01fc478c3906c356608c9, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -119,7 +119,7 @@ GameObject:
   - component: {fileID: 2086595367598718276}
   - component: {fileID: 7717115963766288656}
   - component: {fileID: 996490900517650859}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Death
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -244,3 +244,4 @@ MonoBehaviour:
   knockbackTime: 0.3
   fadeDuration: 1
   expToGive: 7
+  expSpawnChance: 70
