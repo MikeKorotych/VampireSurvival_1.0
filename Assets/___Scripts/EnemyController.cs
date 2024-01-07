@@ -30,6 +30,9 @@ public class EnemyController : MonoBehaviour
 
     public int expToGive = 1;
 
+    public int coinValue = 1;
+    public float coinDropRate = .2f;
+
     [SerializeField] int expSpawnChance = 70;
     PlayerHealthController playerHC => PlayerHealthController.instance;
     // Start is called before the first frame update
@@ -43,38 +46,44 @@ public class EnemyController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(knockbackCounter > 0)
+        if(PlayerController.instance.gameObject.activeSelf == true)
         {
-            GetComponent<CapsuleCollider2D>().isTrigger = true;
-
-            // Вычисляем процент завершения отбрасывания.
-            float knockbackPercent = (knockbackCounter / knockbackTime);
-
-            // Применяем уменьшение скорости отбрасывания с течением времени.
-            moveSpeed = initialKnockbackSpeed * knockbackPercent;
-
-            knockbackCounter -= Time.deltaTime;
-
-            if(knockbackCounter <= 0)
+            if(knockbackCounter > 0)
             {
-                moveSpeed = initialMoveSpeed;
-                GetComponent<CapsuleCollider2D>().isTrigger = false;
-                //moveSpeed = Mathf.Abs(moveSpeed * .5f);
-            }
-        }
+                GetComponent<CapsuleCollider2D>().isTrigger = true;
 
-        if(!isDead)
+                // Вычисляем процент завершения отбрасывания.
+                float knockbackPercent = (knockbackCounter / knockbackTime);
+
+                // Применяем уменьшение скорости отбрасывания с течением времени.
+                moveSpeed = initialKnockbackSpeed * knockbackPercent;
+
+                knockbackCounter -= Time.deltaTime;
+
+                if(knockbackCounter <= 0)
+                {
+                    moveSpeed = initialMoveSpeed;
+                    GetComponent<CapsuleCollider2D>().isTrigger = false;
+                    //moveSpeed = Mathf.Abs(moveSpeed * .5f);
+                }
+            }
+
+            if(!isDead)
+            {
+                theRB.velocity = (target.position - transform.position).normalized * moveSpeed;
+
+                //face enemy to the player
+                if (transform.position.x < playerHC.transform.position.x) 
+                {
+                    transform.localScale = new Vector3(-1, 1, 1);
+                } else
+                {
+                    transform.localScale = new Vector3(1, 1, 1);
+                }
+            }
+        } else
         {
-            theRB.velocity = (target.position - transform.position).normalized * moveSpeed;
-
-            //face enemy to the player
-            if (transform.position.x < playerHC.transform.position.x) 
-            {
-                transform.localScale = new Vector3(-1, 1, 1);
-            } else
-            {
-                transform.localScale = new Vector3(1, 1, 1);
-            }
+            theRB.velocity = Vector2.zero;
         }
     }
 
@@ -124,6 +133,11 @@ public class EnemyController : MonoBehaviour
         }
 
         DamageNumberController.instance.SpawnDamage(damageToTake, new Vector3(transform.position.x + 1, transform.position.y, transform.position.z));
+
+        if(Random.value <= coinDropRate)
+        {
+            CoinController.instance.DropCoin(transform.position, coinValue);
+        }
     }
 
     public void Death()
