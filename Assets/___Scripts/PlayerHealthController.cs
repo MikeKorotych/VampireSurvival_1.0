@@ -15,6 +15,10 @@ public class PlayerHealthController : MonoBehaviour
 
     EnemyController enemyController;
 
+    public ParticleSystem deathVFX;
+
+    public HealPotion healPotion;
+
     private void Awake()
     {
         instance = this;
@@ -23,9 +27,21 @@ public class PlayerHealthController : MonoBehaviour
     void Start()
     {
         enemyController = FindObjectOfType<EnemyController>();
+
+        maxHealth = PlayerStatController.instance.health[0].value;
         currentHealth = maxHealth;
         healthSlider.maxValue = maxHealth;
         healthSlider.value = currentHealth;
+    }
+
+    public void PlayDeathVFX()
+    {
+        Instantiate(deathVFX, transform.position, transform.rotation);
+    }
+
+    public void SpawnHealPotion(Vector3 position)
+    {
+        Instantiate(healPotion, position, Quaternion.identity);
     }
 
     // Update is called once per frame

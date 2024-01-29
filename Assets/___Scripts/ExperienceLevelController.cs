@@ -1,6 +1,5 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor.Timeline.Actions;
 using UnityEngine;
 
 public class ExperienceLevelController : MonoBehaviour
@@ -44,12 +43,20 @@ public class ExperienceLevelController : MonoBehaviour
         }
 
         UIController.instance.UpdateExp(currentExperience, expLevels[currentLevel], currentLevel);
+
+        SFXManager.instance.PlaySFXPitched(2);
     }
 
     public void SpawnExp(Vector3 position, int expValue)
     {
         Instantiate(pickup, position, Quaternion.identity).expValue = expValue;
     }
+
+    private void SetTimeScaleTo1()
+    {
+        Time.timeScale = 1;
+    }
+
 
     void LevelUp()
     {
@@ -64,8 +71,17 @@ public class ExperienceLevelController : MonoBehaviour
 
         // PlayerController.instance.activeWeapon.LevelUp();
 
-        UIController.instance.levelPanel.SetActive(true);
         Time.timeScale = 0;
+
+        // Play VFX
+        PlayerController.instance.LevelUpVFX1.Play();
+        PlayerController.instance.LevelUp1VFX2.Play();
+
+        // PlaySFX
+        SFXManager.instance.PlaySFX(11);
+
+        // Enable lvl panel
+        UIController.instance.levelUpPanel.SetActive(true);
 
         // UIController.instance.levelUpButtons[1].UpdateButtonDisplay(PlayerController.instance.activeWeapon);
 
@@ -116,5 +132,7 @@ public class ExperienceLevelController : MonoBehaviour
                 UIController.instance.levelUpButtons[i].gameObject.SetActive(false);
             }
         }
+
+        PlayerStatController.instance.UpdateDisplay();
     }
 }

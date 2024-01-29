@@ -27,6 +27,12 @@ public class PlayerController : MonoBehaviour
     [HideInInspector]
     public List<Weapon> fullyLeveledWeapons = new List<Weapon>();
 
+    // VFX prefabs
+    public ParticleSystem LevelUpVFX1;
+    public ParticleSystem LevelUp1VFX2;
+    public ParticleSystem BloodVFX;
+    public ParticleSystem HealVFX;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -36,6 +42,10 @@ public class PlayerController : MonoBehaviour
         {
             AddWeapon(Random.Range(0, unassignedWeapons.Count));
         }
+
+        moveSpeed = PlayerStatController.instance.moveSpeed[0].value;
+        pickupRange = PlayerStatController.instance.pickupRange[0].value;
+        maxWeapons = Mathf.RoundToInt(PlayerStatController.instance.maxWeapons[0].value);
     }
 
     // Update is called once per frame

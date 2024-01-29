@@ -34,6 +34,10 @@ public class EnemyController : MonoBehaviour
     public float coinDropRate = .2f;
 
     [SerializeField] int expSpawnChance = 70;
+
+    private float healSpawnChance = 0.05f;
+    public GameObject healPotion;
+
     PlayerHealthController playerHC => PlayerHealthController.instance;
     // Start is called before the first frame update
     void Start()
@@ -112,9 +116,17 @@ public class EnemyController : MonoBehaviour
         {
             playerHC.currentHealth -= damageToTake;
 
+
             if (playerHC.currentHealth <= 0)
             {
+                PlayerHealthController.instance.PlayDeathVFX();
+
                 playerHC.gameObject.SetActive(false);
+
+                LevelManager.instance.EndLevel();
+
+                // play SFX
+                SFXManager.instance.PlaySFX(3);
             }
 
             playerHC.healthSlider.value = playerHC.currentHealth;
@@ -130,6 +142,9 @@ public class EnemyController : MonoBehaviour
         if (health <= 0)
         {
             Death();
+        } else
+        {
+            SFXManager.instance.PlaySFXPitched(1);
         }
 
         DamageNumberController.instance.SpawnDamage(damageToTake, new Vector3(transform.position.x + 1, transform.position.y, transform.position.z));
@@ -146,11 +161,20 @@ public class EnemyController : MonoBehaviour
         GetComponent<CapsuleCollider2D>().enabled = false;
         theRB.velocity = Vector2.zero;
 
-        // xp
+        // heal potion spawn
+        if (Random.value < healSpawnChance) 
+        {
+            PlayerHealthController.instance.SpawnHealPotion(transform.position);
+        }
+
+        // xp spawn
         if(Random.Range(0,100) < expSpawnChance)
         {
             ExperienceLevelController.instance.SpawnExp(transform.position, expToGive);
-        }    
+        }
+
+        // play SFX
+        SFXManager.instance.PlaySFXPitched(0);
 
         // if monsted don't have death animation in spritesheet we don't assign animator on the enemy controller in the inspector
         // and doind animation manually in the dotween instead;

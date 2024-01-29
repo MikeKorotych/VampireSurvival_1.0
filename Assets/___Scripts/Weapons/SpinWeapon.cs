@@ -46,6 +46,8 @@ public class SpinWeapon : Weapon
 
                 Transform clone = Instantiate(fireballToSpawn, fireballToSpawn.position, Quaternion.Euler(0f, 0f, rot), holder);
                 clone.gameObject.SetActive(true);
+
+                SFXManager.instance.PlaySFXPitched(8);
             }
         }
 
